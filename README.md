@@ -1,9 +1,9 @@
 # Programacao-Dispositivos-Moveis
-## Hello World! 
+
 <p align="center">
  <img src="https://github.com/Maliarte/Programacao-Dispositivos-Moveis/blob/main/fitTracker/login-fittrack.jpg" />
 </p>
-
+##
 👊 Compartilho o desenvolvimento de mais um projeto utilizando tecnologias incríveis!✨ 
 
 💡 Problema: Identificamos a necessidade de uma solução centralizada para que os usuários pudessem gerenciar e acompanhar seus treinos e aulas de forma prática e personalizada.
